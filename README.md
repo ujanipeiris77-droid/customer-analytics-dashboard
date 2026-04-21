@@ -26,3 +26,8 @@ This project analyzes customer spending behavior using Power BI.
   <li>Segmented customers for targeted strategies</li>
   <li>Visualized spending patterns</li>
 </ul>
+
+ <strong>Dashboard Preview</strong>
+<ul>
+
+![Dashboard](dashboard.png)
